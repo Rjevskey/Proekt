@@ -1,0 +1,14 @@
+* {
+  font-family: "Sedgwick Ave Display", cursive;
+  color: aliceblue;
+  margin: 0px 40px 0px 40px;
+  /* padding: 10px; */
+
+  background-image: url(/img/03438255.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  width: auto;
+  background-attachment:fixed;
+  /* background:(rgb(114, 114, 114), rgb(114, 114, 114), rgb(114, 114, 114), 1);  */
+}
