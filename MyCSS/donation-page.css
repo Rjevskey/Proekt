@@ -1,0 +1,24 @@
+/*
+   1.Header
+   2.Maim
+   3.Footer 
+*/
+/* ____________________________1. Header____________________________ */
+.donation-page__tittle{
+   text-align: center;
+}
+.donation-page__menu{
+   display: flex;
+   justify-content: space-around;
+   list-style-type: none;
+   margin: 40px;
+   padding: 0px;
+
+   text-align: justify;
+   vertical-align: auto;
+}
+.donation-page__list{
+   text-decoration: none;
+}
+/* ____________________________2. Maine______________________________ */
+/* ____________________________3. Footer_____________________________ */

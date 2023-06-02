@@ -11,6 +11,7 @@
 }
 .main-navigation__menu {
   display: flex;
+  justify-content: space-around;
   list-style-type: none;
   margin: 40px;
   padding: 0px;
@@ -18,7 +19,6 @@
   text-align: justify;
   text-decoration: none;
   vertical-align: auto;
-  justify-content: space-between;
 }
 
 .main-navigation__list{
